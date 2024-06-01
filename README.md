@@ -1,2 +1,2 @@
 # Notes
-Aby android emulator działał path rozwiązania nie może zawierać polskich znaków 
+Aby emulator androida działał, path rozwiązania nie może zawierać polskich znaków 
